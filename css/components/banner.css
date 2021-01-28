@@ -1,0 +1,14 @@
+/* Your card CSS file */
+.banner {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  color:white;
+  padding-top:100px;
+}
+
+.banner p {
+  font-size: 20px;
+  opacity: 0.8;
+  margin-bottom: 30px;
+}
